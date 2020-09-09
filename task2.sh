@@ -1,0 +1,1 @@
+gcloud sql instances create wordpress-db --password="password" --sql-version=MYSQL_5_7" --zone=us-central1-a
